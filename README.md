@@ -1,39 +1,39 @@
-# AI Course Landing Page
+# Página de Destino do Curso de Inteligência Artificial
 
-Welcome to the AI Course Landing Page project! This project is designed to provide a comprehensive overview of an artificial intelligence course, showcasing its features, benefits, and how to enroll.
+Bem-vindo ao projeto da Página de Destino do Curso de Inteligência Artificial! Este projeto foi desenvolvido para fornecer uma visão abrangente sobre um curso de inteligência artificial, destacando suas características, benefícios e como se inscrever.
 
-## Project Structure
+## Estrutura do Projeto
 
-The project consists of the following files:
+O projeto é composto pelos seguintes arquivos:
 
-- `src/index.html`: The main HTML document for the landing page.
-- `src/css/styles.css`: Custom CSS styles for the landing page.
-- `src/js/scripts.js`: JavaScript code for interactive elements on the landing page.
-- `README.md`: Documentation for the project.
+- `src/index.html`: O documento HTML principal da página de destino.
+- `src/css/styles.css`: Estilos CSS personalizados para a página de destino.
+- `src/js/scripts.js`: Código JavaScript para elementos interativos na página de destino.
+- `README.md`: Documentação do projeto.
 
-## Features
+## Funcionalidades
 
-- Responsive design using Bootstrap
-- Detailed course information
-- Benefits of enrolling in the course
-- Call to action for potential students
+- Design responsivo utilizando Bootstrap
+- Informações detalhadas sobre o curso
+- Benefícios de se inscrever no curso
+- Chamada para ação para atrair potenciais alunos
 
-## Setup Instructions
+## Instruções de Configuração
 
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
+1. Clone o repositório: 
 
-2. Navigate to the project directory:
-   ```
+   git clone <url-do-repositorio>
+
+
+2. Navegue até o diretório do projeto:
+
    cd ai-course-landing-page
-   ```
 
-3. Open `src/index.html` in your web browser to view the landing page.
 
-## Additional Information
+3. Abra o arquivo `src/index.html` no seu navegador para visualizar a página de destino.
 
-This landing page is intended to attract potential students to enroll in the artificial intelligence course. It highlights the key aspects of the course and provides an easy way for users to get more information or sign up.
+## Informações Adicionais
 
-Feel free to customize the content and styles to better fit your needs!
+Esta página de destino foi criada para atrair potenciais alunos a se inscreverem no curso de inteligência artificial. Ela destaca os principais aspectos do curso e fornece uma maneira fácil para os usuários obterem mais informações ou se inscreverem.
+
+Sinta-se à vontade para personalizar o conteúdo e os estilos para atender melhor às suas necessidades!
