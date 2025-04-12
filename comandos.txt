@@ -1,0 +1,9 @@
+docker build -t cursoia/land:latest .
+
+docker run -d -p 80:80 cursoia/land:latest
+
+az login
+
+az acr login  --name acrhsouzalab02 #acr=Azure Container Register
+
+docker tag cursoia/land:latest acrhsouzalab02.azurecr.io/cursoia-land:latest
